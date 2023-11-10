@@ -1,0 +1,30 @@
+.rtb {
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.gtb {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.btb {
+    color: rgb(26, 92, 236);
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.ortb {
+    color: orangered;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.lsgtb {
+    color: lightseagreen;
+    font-weight: bold;
+
+}
